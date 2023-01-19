@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm María 👋🏽👩🏽‍💻
 
 <!--
 **marialapc/marialapc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
